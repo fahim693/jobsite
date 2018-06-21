@@ -1,4 +1,3 @@
 # jobsite
-- The project is a jobsite
-- Academic project
-- HTML | CSS | JS | PHP MySql
+
+A site where you can search,apply and post for jobs. Admin panel allows admin to select applicants.
